@@ -1,0 +1,12 @@
+[submodule "wp-stage-switcher"]
+	path = wp-stage-switcher
+	url = https://github.com/roots/wp-stage-switcher.git
+[submodule "Force-Strong-Passwords"]
+	path = Force-Strong-Passwords
+	url = https://github.com/boogah/Force-Strong-Passwords.git
+[submodule "disable-wordpress-core-update"]
+	path = disable-wordpress-core-update
+	url = https://github.com/johnbillion/disable-wordpress-core-update.git
+[submodule "disable-emojis"]
+	path = disable-emojis
+	url = https://github.com/wp-plugins/disable-emojis.git
