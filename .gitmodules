@@ -10,3 +10,6 @@
 [submodule "disable-emojis"]
 	path = disable-emojis
 	url = https://github.com/wp-plugins/disable-emojis.git
+[submodule "enable-media-replace"]
+	path = enable-media-replace
+	url = https://github.com/mansj/enable-media-replace.git
