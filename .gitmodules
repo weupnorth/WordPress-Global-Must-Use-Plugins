@@ -13,3 +13,6 @@
 [submodule "enable-media-replace"]
 	path = enable-media-replace
 	url = https://github.com/mansj/enable-media-replace.git
+[submodule "WP-Admin-Command-Palette"]
+	path = WP-Admin-Command-Palette
+	url = https://github.com/Clark-Nikdel-Powell/WP-Admin-Command-Palette.git
